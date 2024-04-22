@@ -10,8 +10,8 @@ Steps:
 
 
 
-NOTE: You need to have installed 7-zip! otherwise it will NOT work
-get it here: www.7-zip.org/download.html
+NOTE: You need to have installed 7-zip! otherwise it will NOT work.
+Get it here: www.7-zip.org/download.html
 
 NOTE: It can decode .zip, .rar, .7z, .tar, .wim files
 
